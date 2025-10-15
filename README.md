@@ -48,7 +48,7 @@ Created security groups for access segmentation:
 - `ITAdmin` added to **ITTeam**  
 
 📸 **Screenshot:**  
-![financeuser in hr group](Assests/assets/financeuser_in_hruser_group.png)
+![financeuser in hr group](Assets/assets/financeuser_in_hruser_group.png)
 
 📝 *Demonstrates least privilege through functional grouping.*
 
