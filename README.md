@@ -22,7 +22,7 @@ Created three sample users to simulate enterprise departments:
 - `ITAdmin` – IT Department  
 
 📸 **Screenshot:**  
-![user list](assets/user_list.png)
+![user list](assets/User%20list.png)
 
 📝 *Represents the Joiner phase — provisioning accounts for new hires.*
 
