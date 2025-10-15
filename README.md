@@ -23,7 +23,8 @@ Created three sample users to simulate enterprise departments:
 
 📸 **Screenshot:**  
 
-![User List](assets/user_list.png)
+
+Assets/assets/user_list.png
 
 📝 *Represents the Joiner phase — provisioning accounts for new hires.*
 
