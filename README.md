@@ -58,7 +58,7 @@ Created security groups for access segmentation:
 `ITAdmin` granted the **User Administrator** role to manage directory users.  
 
 📸 **Screenshot:**  
-![rbac proof](assets/proof_of_role_based_provisioning.png)
+![rbac proof](Assets/assets/proof_of_role_based_provisioning.png)
 
 📝 *Implements NIST AC-5 and ISO 27001 A.6.1.2 (Separation of Duties).*
 
@@ -68,18 +68,18 @@ Created security groups for access segmentation:
 Conducted access reviews and removed excess permissions.
 
 #### Before Access Review  
-![before review](assets/step6_before_removal_of_financeuser.png)
+![before review](Assets/assets/step6_before_removal_of_financeuser.png)
 
 #### During Review  
-![during removal](assets/removal_of_financeuser.png)
+![during removal](Assets/assets/removal_of_financeuser.png)
 
 #### After Review  
-![after removal](assets/post_removal_of_financeuser.png)
+![after removal](Assests/assets/post_removal_of_financeuser.png)
 
 #### Account Disabled  
-![blocked user](assets/block_users.png)
+![blocked user](Assets/assets/block_users.png)
 
-📊 [Download Access Review Report](assets/access_review_report.xlsx)  
+📊 [Download Access Review Report](Assets/assets/access_review_report.xlsx)  
 *Shows which users were reviewed and removed during the access review process.*
 
 📝 *Illustrates the Leaver process and compliance with NIST AC-2(3) and ISO 27001 A.9.2.6.*
@@ -98,9 +98,9 @@ Created a KPI Dashboard in Excel to measure IAM performance.
 | Policy Compliance | Alignment with NIST / ISO / SOX | 100% | 95% | ⚠️ Partial | Manual review process |
 
 📸 **Screenshot:**  
-![kpi dashboard](assets/iam_access_kpi_dashboard.png)
+![kpi dashboard](Assets/assets/iam_access_kpi_dashboard.png)
 
-📁 [Download KPI Performance Report](assets/kpi_performance_report.xlsx)  
+📁 [Download KPI Performance Report](Assets/assets/kpi_performance_report.xlsx)  
 *Contains the Excel data and calculations used to build the IAM KPI Dashboard.*
 
 📝 *Visualizing IAM governance data for compliance and audit readiness.*
