@@ -36,8 +36,8 @@ Created security groups for access segmentation:
 - `ITTeam`  
 
 📸 **Screenshots:**  
-- HR Group → ![hrteam](assets/hrteam.png)  
-- IT Group → ![itadmin](assets/itadmin.png)
+- HR Group → ![hrteam](Assets/assets/user_list.png)  
+- IT Group → ![itadmin](Assets/assets/itadmin.png)
 
 📝 *Implements ISO 27001 A.9.2.3 (User Access Provisioning).*
 
