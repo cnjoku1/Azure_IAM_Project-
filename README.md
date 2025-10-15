@@ -22,7 +22,7 @@ Created three sample users to simulate enterprise departments:
 - `ITAdmin` – IT Department  
 
 📸 **Screenshot:**  
-![User List](Assets/User%20list.png)
+![user list](assets/user_list.png)
 
 📝 *Represents the Joiner phase — provisioning accounts for new hires.*
 
@@ -34,8 +34,8 @@ Created security groups for access segmentation:
 - `ITTeam`  
 
 📸 **Screenshots:**  
-- HR Group → ![HRTeam](Assets/HRTeam.png)  
-- IT Group → ![ITAdmin](Assets/ITAdmin%20.png)  
+- HR Group → ![hrteam](assets/hrteam.png) 
+- IT Group → ![itadmin](assets/itadmin.png) 
 
 📝 *Implements ISO 27001 A.9.2.3 (User access provisioning).*
 
@@ -46,7 +46,7 @@ Created security groups for access segmentation:
 - `ITAdmin` added to **ITTeam**  
 
 📸 **Screenshot:**  
-![FinanceUser in HR Group](Assets/FinanceUser%20in%20HRUser%20group.png)
+![financeuser in hr group](assets/financeuser_in_hruser_group.png)
 
 📝 *Demonstrates least privilege through functional grouping.*
 
@@ -56,7 +56,7 @@ Created security groups for access segmentation:
 `ITAdmin` granted the **User Administrator** role to manage directory users.  
 
 📸 **Screenshot:**  
-![RBAC Proof](Assets/Proof%20of%20role%20based%20provisioning.png)
+![rbac proof](assets/proof_of_role_based_provisioning.png)
 
 📝 *Implements NIST AC-5 and ISO 27001 A.6.1.2 (Separation of duties).*
 
@@ -66,16 +66,16 @@ Created security groups for access segmentation:
 Conducted access reviews and removed excess permissions.
 
 #### Before Access Review  
-![Before Review](Assets/Step%206%20Before%20Removal%20of%20FinanceUser.png)
+![before review](assets/step6_before_removal_of_financeuser.png)
 
 #### During Review  
-![During Removal](Assets/Removal%20of%20FinanceUser.png)
+![during removal](assets/removal_of_financeuser.png)
 
 #### After Review  
-![After Removal](Assets/Post%20Removal%20of%20FinanceUser.png)
+![after removal](assets/post_removal_of_financeuser.png)
 
 #### Account Disabled  
-![Blocked User](Assets/block%20users.png)
+![blocked user](assets/block_users.png)
 
 📝 *Illustrates the “Leaver” process and compliance with NIST AC-2(3) and ISO 27001 A.9.2.6.*
 
@@ -93,7 +93,9 @@ Created a KPI Dashboard in Excel to measure IAM performance.
 | Policy Compliance | Alignment with NIST / ISO / SOX | 100% | 95% | ⚠️ Partial | Manual review process |
 
 📸 **Screenshot:**  
-![KPI Dashboard](Assets/IAM%20Access%20KPI%20Dashboard.png)
+![kpi dashboard](assets/iam_access_kpi_dashboard.png)
+
+[download kpi performance report](assets/kpi_performance_report.xlsx)  
 
 📝 *Visualizing IAM governance data for compliance and audit readiness.*
 
