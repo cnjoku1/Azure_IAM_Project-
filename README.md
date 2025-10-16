@@ -123,4 +123,10 @@ Created a KPI Dashboard in Excel to measure IAM performance.
 ---
 
 ## 🏁 Summary
-This hands-on simulation was fully completed using a **free-tier Azure account** to demonstrate how IAM controls connect to real compliance frameworks — proving that **effective identity governance can be measurable, auditable, and business-aligned**.
+This hands-on simulation was fully completed using a **free-tier Azure account** to demonstrate how IAM controls connect to real compliance frameworks as NIST 800—53, ISO 27001, SOX 404 - proving that effective identity governance can be measurable, auditable, and business-aligned
+
+Throughout this lab:
+- HRUser was disabled to simulate a proper offboarding process (leaver phase).
+- FinanceUser was removed from the IT group to represent access revocation and enforemnet of the least privilege principle.
+- These actions ensured that IAM activities like provisioning, access reviews, and deprovisioning were tracked, reported, and aligned with governance best practices.
+  By visualizing these steps through KPI metrics and dashboards, this project illustrates how Identity and Access Management (IAM) not only protects systems but also builds trust, transparency, and compliance radiness within an organization**.
