@@ -49,6 +49,7 @@ Created security groups for access segmentation:
 
 📸 **Screenshot:**  
 ![financeuser in hr group](Assets/assets/financeuser_in_hruser_group.png)
+![it_admin](Assets/assets/it_admin.png)
 
 📝 *Demonstrates least privilege through functional grouping.*
 
