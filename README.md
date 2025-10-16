@@ -74,7 +74,7 @@ Conducted access reviews and removed excess permissions.
 ![during removal](Assets/assets/removal_of_financeuser.png)
 
 #### After Review  
-![after removal](Assests/assets/post_removal_of_financeuser.png)
+![after removal](Assets/assets/post_removal_of_financeuser.png)
 
 #### Account Disabled  
 ![blocked user](Assets/assets/block_users.png)
